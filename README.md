@@ -1,2 +1,2 @@
 # MIPS-Simulator
-This simulator was developed in Java at University of Texas at San Antonio.
+This is a MIPS architecture instructions simulator was developed in Computer Architecture course.
